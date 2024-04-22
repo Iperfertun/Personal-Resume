@@ -1,2 +1,2 @@
 # personal-resume
-personal resumer contain what i acheive or learnt. 
+A personal resume is a document that highlights your personal and professional skills
